@@ -1,0 +1,52 @@
+/n/posdw/mon0  чеки pos dm
+fmbsbo         структурный план бюджета
+cj20n          спп элементы ERP
+fmsbo          отключить активный контроль превышения
+TSTCT          таблица с транзакциями
+zfm_bcs_menu   отчеты ERP бюджетирование
+se61           документы для текстов отправки сообщений из STS
+ke52           МВП в ERP
+fmcia          ведение фин. позиций в ERP
+sm59           настройка RFC соединения между системами
+st01           трассировка
+sicf           активация webdynpro в bwp
+SBIW           options of extraction from SAP ERP to SAP NW BW
+rsa5           business content datasources
+rsa6           postprocess datasources
+LBWG           deleting setup table
+LBWE           Logistics cockpit
+RSO2           maintain generic datasource
+cmod           project manager !! exit variables
+rsbbs          transaction mantain sender/receiver assignment
+rswsp          workspaces maintenance
+stvarv         ведение таблицы глобальных переменных
+se93           текст программы транзакции
+RSZC           копирование query между провайдерами
+RSPLS_SQLOG_HEAD таблица с логом выполнения последовательностей планирования
+agr_hier       таблица с привязкой элементов к роли
+rrmxp          открытие рабочей книги Analyzer по ее ID
+rsbbs          настройка rri в bw
+UPS_TP_HIERARCHY таблица с присвоением иерархий к компонентам плана 
+zrep_prices    актуальные цены в магазинах (ERP)
+sm64           запуск триггеров
+rskc           допустимые символы признаков
+rsplse         управление блокировками, expert - добавление атрибутов как релевантных для блокировок признаков
+sxi_monitor    монитор вызова proxy
+/$sync         сброс буферов в BW
+vl03n          исходящие поставки (ERP)
+va03           заказ клиента (ERP)
+me23n          заказы на поставку, закупку, перемещение (EKPO)-ERP
+vl33n          входящие поставки (ERP)
+mm43           основные данные материала (ERP)
+RSRV           тесты BW
+SCTS_HTA       перенос запросов HANA через GUI
+so23           настройка групп рассылок для отправки писем из цепочек
+uparm_custom    расширенное ведение основных данных
+RSTRAN_ROUT_RSFO_CHECK программа - устранение ошибок при переносе трансформации
+http://02081977.blogspot.ru/2012/07/dtp.html - активация трансформаций и ППД
+st12           ABAP трассировка
+SAT            трассировка
+RSO_CONVERT_IPRO_TO_HCPR - миграция старых провайдеров на композитный провайдер
+RSHDBMON       монитор неактивных данных
+/SSA/BWT       программа администрирования цепочек
+ZXLWB_WORKBENCH настройка шаблонов для выгрузки из WDP в Excel
